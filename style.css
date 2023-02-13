@@ -144,8 +144,9 @@ body{
   background-image: url(Media/Poza-profil.jpg);
   width: 500%;
   height: 70%;
-  background-position: 45%;
-  background-size: 80vh;
+  background-position: center;
+  background-position-y: 25%;
+  background-size: 70vh;
   border-radius: 30px;
   margin-left: 5%;
 }
