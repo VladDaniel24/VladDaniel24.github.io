@@ -190,6 +190,7 @@ body{
     .item1{ height: 200px; width: 350px ; font-size: 20px;  } 
     .item1:hover { height: 200px; width: 350px; }
     .content-1{ font-size: 28px; font-size: 13px; }
+    .photo {background-size: 40vh;}
   }
 .item2{
     height: 500px;
